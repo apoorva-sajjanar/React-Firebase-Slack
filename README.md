@@ -8,7 +8,11 @@ and Firebase Cloud.
 Click <a href="https://react-slack-e5339.web.app/" target="_blank">here</a>
 for live demo of the slack application.
 
-https://user-images.githubusercontent.com/85893398/124426316-7f3d9d80-dd87-11eb-8c79-fbd58a096293.mp4
+
+
+https://user-images.githubusercontent.com/85893398/124540272-ac985300-de3c-11eb-87ba-bd70b21399ba.mp4
+
+
 
 <br/>
 <br/>
